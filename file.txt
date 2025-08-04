@@ -1,1 +1,2 @@
 this is my file and its extension is .txt
+this is txt file 
